@@ -61,4 +61,6 @@
   defaultBranch = master
 [user]
 	email = salmaould.4242@gmail.com
-	name = salmaouldabdelhadi
+	name = salma ould abdelhadi
+[credential]
+	helper = store
